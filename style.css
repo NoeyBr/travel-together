@@ -25,3 +25,10 @@ body {
     border-radius: 3%;
     color: white;
 }
+
+#footer {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+}
