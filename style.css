@@ -18,11 +18,9 @@ body {
 
 .card-body {
     background-color: rgb(255, 119, 101);
-    border-radius: 3%;
 }
 
 .card :not(.btn) {
-    border-radius: 3%;
     color: white;
 }
 
