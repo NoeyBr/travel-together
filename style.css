@@ -18,33 +18,19 @@ body {
 
 .card-body {
     background-color: rgb(255, 119, 101);
-    border-radius: 2rem;
-    color: white;
-    margin-top: 3rem;
+    border-radius: 3%;
 }
 
 .card :not(.btn) {
+    border-radius: 3%;
     color: white;
-    border-radius: 2rem;
 }
 
-#footer-nav {
+#footer {
     align-items: center;
     display: flex;
     justify-content: space-between;
     padding-top: 1rem;
 }
-
-.card-features i {
-    font-size: 2rem;
-    color: rgb(255, 119, 101);
-}
-
-#features {
-    background-image: url(/img/wave.svg);
-}
-
-
-
 
 
