@@ -18,12 +18,14 @@ body {
 
 .card-body {
     background-color: rgb(255, 119, 101);
-    border-radius: 3%;
+    border-radius: 2rem;
+    color: white;
+    margin-top: 3rem;
 }
 
 .card :not(.btn) {
-    border-radius: 3%;
     color: white;
+    border-radius: 2rem;
 }
 
 #footer {
